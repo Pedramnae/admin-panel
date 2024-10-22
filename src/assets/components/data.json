@@ -1,0 +1,50 @@
+[
+    {
+        "label": "Jan",
+        "data": 2115
+    },
+    {
+        "label": "Feb",
+        "data": 1562
+    },
+    {
+        "label": "Mar",
+        "data": 1584
+    },
+    {
+        "label": "Apr",
+        "data": 1892
+    },
+    {
+        "label": "May",
+        "data": 1587
+    },
+    {
+        "label": "Jus",
+        "data": 1923
+    },
+    {
+        "label": "Jul",
+        "data": 2566
+    },
+    {
+        "label": "Aug",
+        "data": 2448
+    },
+    {
+        "label": "Sep",
+        "data": 2805
+    },
+    {
+        "label": "Oct",
+        "data": 3438
+    },
+    {
+        "label": "Nov",
+        "data": 2917
+    },
+    {
+        "label": "Dec",
+        "data": 3327
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "label": "Jan",
+        "data": 54
+    },
+    {
+        "label": "Feb",
+        "data": 67
+    },
+    {
+        "label": "Mar",
+        "data": 41
+    },
+    {
+        "label": "Apr",
+        "data": 55
+    },
+    {
+        "label": "May",
+        "data": 62
+    },
+    {
+        "label": "Jus",
+        "data": 45
+    },
+    {
+        "label": "Jul",
+        "data": 55
+    },
+    {
+        "label": "Aug",
+        "data": 73
+    },
+    {
+        "label": "Sep",
+        "data": 60
+    },
+    {
+        "label": "Oct",
+        "data": 76
+    },
+    {
+        "label": "Nov",
+        "data": 48
+    },
+    {
+        "label": "Dec",
+        "data": 79
+    }
+]
